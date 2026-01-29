@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745737133293",
+    "project_id": "veritas-generation-ministry",
+    "storage_bucket": "veritas-generation-ministry.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745737133293:android:a53db1b3c49f337de580e4",
+        "android_client_info": {
+          "package_name": "com.example.veritasgenerationministry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745737133293-33cr3vl2i1bp3ns64ppj20o3tt1q856v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.veritasgenerationministry",
+            "certificate_hash": "851963832e8d6e36706236b6ecb96c51cd58a2b4"
+          }
+        },
+        {
+          "client_id": "745737133293-dp2gf66715q3trl7nrpbopicij7i4gej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuD930hZp2TiBjx_DfOUH7T0ERZ9BjNQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745737133293-dp2gf66715q3trl7nrpbopicij7i4gej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
